@@ -3,6 +3,7 @@ content_type: resource
 description: Distributed Access to Parcel-Level City Databases
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/93577f87a3199e27f54e21adf095c70c_lect5.pdf
 file_type: application/pdf
+parent_uid: f4026de9-2fa5-b456-b93b-b5df5d47745e
 resourcetype: Document
 title: lect5.pdf
 uid: 93577f87-a319-9e27-f54e-21adf095c70c

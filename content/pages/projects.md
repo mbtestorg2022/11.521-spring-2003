@@ -11,7 +11,7 @@ This section is the entire final project for the course.
 The Lawrence Project
 --------------------
 
-![Downtown Lawrence, MA](/courses/urban-studies-and-planning/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/projects/Lawrence.jpg)
+{{< resource "78ded4ec-ac3c-ef31-148d-939478fa7258" >}}
 
 An image of downtown Lawrence, MA.
 

@@ -4,6 +4,7 @@ description: Script & Sample Queries to Create & Manipulate the URISA Proceeding
   Database in ORACLE
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/0d2ca17459f98b57ad1d81638b0a97f4_urisa.pdf
 file_type: application/pdf
+parent_uid: 87c407d0-3723-a739-8b34-f71fccd3a448
 resourcetype: Document
 title: urisa.pdf
 uid: 0d2ca174-59f9-8b57-ad1d-81638b0a97f4

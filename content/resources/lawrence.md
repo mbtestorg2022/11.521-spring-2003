@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 33df897f-4639-c5d6-7587-49e09fa048b1
 resourcetype: Image
 title: Lawrence.jpg
 uid: 78ded4ec-ac3c-ef31-148d-939478fa7258
